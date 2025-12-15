@@ -3,7 +3,7 @@ class HelloWorld:
         pass  # No initialization needed for now
 
     def greet(self):
-        print("Hello, GitHub World!")
+        print("Hello, VSCode World!")
 
 
 def main():
